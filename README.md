@@ -12,3 +12,4 @@ Installing is not necessary. Just copy the obsidian.css into the CSS Snippet at 
 
 ![minimal1](https://github.com/jonsnow231/minimal-resources/assets/83853289/d926b381-e916-4f87-9294-b85785bf081c)
 ![minimal2](https://github.com/jonsnow231/minimal-resources/assets/83853289/2e9b1159-5788-4ac8-b611-e5dd229d27bc)
+![minimal3](https://github.com/jonsnow231/minimal-resources/assets/83853289/c1e0f4c3-510e-4bde-916a-ad4d0aef2e63)
