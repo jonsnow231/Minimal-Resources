@@ -1,0 +1,51 @@
+You can paste the following into your body of an Obsidian note to help test color tweaks you might want to make. 
+
+Test
+	t
+		d
+			d
+
+**bold** 
+*italic* 
+~~strikethrough~~
+==highlight==
+
+> blockquote
+> blockquote2
+
+#hashtag 
+
+# heading 1
+## heading 2
+### heading 3
+#### heading 4
+##### heading 5
+###### heading 6 
+
+---
+* bulletin
+
+1. number
+2. number 2
+
+- [ ] checklist 
+- [x] checklist 2
+
+```html 
+some code
+```
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+|  Paragraph   | Text        |     
+
+Text with foot note[^1]
+
+[^1]: lorem ipsum
+
+Or in text footnote ^1[text goes here] 
+
+
+[Internal link](internal.md)
