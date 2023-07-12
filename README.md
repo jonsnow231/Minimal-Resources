@@ -7,7 +7,7 @@
 
 * Easily adjustable. Just change the colors listed. Link at the bottom that lists more that you can alter, such as if you want different colors for coding. 
 
-* Installing is not necessary. Just copy the obsidian.css into the CSS Snippet at the bottom of Settings -> Appearance. 
+* Installing is not necessary. Just rename the theme.css to obsidian.css and copy into the CSS Snippet at the bottom of Settings -> Appearance. (Or create new text file in that location, copy the contents of theme.css, and save as obsidian.css). 
 
 
 ![minimal1](https://github.com/jonsnow231/minimal-resources/assets/83853289/d926b381-e916-4f87-9294-b85785bf081c)
