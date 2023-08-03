@@ -11,7 +11,7 @@
   --text-muted: #DADADA; 
   --text-faint: #DADADA;
   --text-accent: #ffdf22;
-  --text-on-accent: #FFFFFF;
+  --text-on-accent: #cdcd43;
   
   --italic-color: #fff6dd;
   --bold-color: #EEEEEE;
@@ -35,7 +35,7 @@
   --nav-item-background-active: #393939;
   --nav-file-tag: #f4ec9e;
   --nav-indentation-guide-color: #5f6148;
-  --interactive-accent: #afafaf;
+  --interactive-accent: #6f6f6f;
   --scrollbar-thumb-bg: #3f3e3e;
   --indentation-guide-color: #5f6148;
   --indentation-guide-color-active: #808261;
